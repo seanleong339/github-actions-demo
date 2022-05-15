@@ -13,3 +13,8 @@ Create a virtualenv
 
 Source it
 ```source ~/.github-actions-demo/bin/activate```
+
+what i did
+- Update the modules in requirements-aws.txt
+- Update runner in workflow yaml file for amazon linux to ubuntu-latest
+- Update python version in workflow yaml file to the latest version
